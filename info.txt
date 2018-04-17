@@ -1,0 +1,2 @@
+running my program
+would produce .dat intermediate files

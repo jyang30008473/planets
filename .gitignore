@@ -1,2 +1,4 @@
 *.dat
+log_*.txt
+!info.dat
 results/

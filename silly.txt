@@ -1,3 +1,7 @@
 roses are red
 violets are blue
 and so are you
+
+shopping list:
+peanuts 
+eggs
